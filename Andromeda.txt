@@ -1,0 +1,6 @@
+Alpheratz: (00 08 23.25988, 29 05 25.5520)
+Mirach: (01 09 43.92388, 35 37 14.0075)
+Gamma Andromedae: (02 03 54.0, 42 19 47)
+Delta Andromedae: (00 39 19.67518, 30 51 39.6783)
+Lambda Andromedae: (23 37 33.84261, 46 27 29.3380)
+Eta Andromedae: (00 57 12.4000, 23 25 03.533)
